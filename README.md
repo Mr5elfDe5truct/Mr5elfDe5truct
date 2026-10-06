@@ -13,6 +13,7 @@ running entirely on your own PC. I believe powerful AI should be **free, private
   <a href="https://github.com/Mr5elfDe5truct/prestige/releases/latest"><img alt="Download Prestige" src="https://img.shields.io/github/v/release/Mr5elfDe5truct/prestige?style=for-the-badge&color=d6202b&label=download%20prestige"></a>
   <a href="https://github.com/Mr5elfDe5truct/prestige"><img alt="Prestige on GitHub" src="https://img.shields.io/badge/source-Mr5elfDe5truct%2Fprestige-d9a441?style=for-the-badge&logo=github"></a>
   <img alt="100% local" src="https://img.shields.io/badge/100%25%20local-offline-1a1111?style=for-the-badge&labelColor=d6202b">
+  <a href="https://github.com/sponsors/Mr5elfDe5truct"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
 </p>
 
 ## ✨ What Prestige does
@@ -59,5 +60,10 @@ built with Tauri 2, Rust and TypeScript.
 </p>
 
 Windows 11 today; Linux and macOS are next.
+
+## 💖 Support
+
+Everything I make is free and open source. If Prestige saves you a subscription, you can help fund what comes next on
+[GitHub Sponsors](https://github.com/sponsors/Mr5elfDe5truct).
 
 <p align="center"><sub>R.G. Studios · <i>Creating the world around you</i></sub></p>
