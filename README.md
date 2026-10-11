@@ -6,7 +6,7 @@
 
 ## 🎩 Hi, I'm Ryan B. Gyles
 
-I build **Prestige by R.G. Studios**, a desktop AI that chats, talks back, sees through your webcam and makes images and video,
+I build **Prestige by R.G. Studios**, a desktop AI that chats, talks back, sees through your webcam and makes images, video and songs,
 running entirely on your own PC. I believe powerful AI should be **free, private and yours**: no accounts, no cloud, no subscriptions.
 
 <p align="center">
@@ -22,19 +22,28 @@ running entirely on your own PC. I believe powerful AI should be **free, private
 |---|---|
 | 💬 **Chat with any local model** | Ollama and llama.cpp models, tools, web search, shared long-term memory and searchable past chats |
 | 📞 **Live calls** | Hands-free voice and webcam calls: just talk, interrupt any time, cloned voices included |
-| 🖼️ **Images and video** | Qwen-Image, Z-Image, LTX and Wan 2.2 long video, with reference images, edit by instruction and paint to change |
+| 🖼️ **Images and video** | Qwen-Image, Z-Image, LTX and Wan 2.2 long video, with reference images, edit by instruction, paint to change and click to select |
+| 🎵 **Songs and music videos** | ACE-Step songs with a full song editor, and Storyboard music videos planned shot by shot |
 | 🔬 **Deep Research** | Plans searches, reads the web and writes a cited report |
 | 📚 **Chat with your files** | PDFs, Word docs and notes, answered with page citations, all on your PC |
 | 🎭 **Characters** | Personas with their own voice, face and memory |
 | 🎮 **Canvas** | Ask for a game, a chart or a 3D scene and play it right beside the chat |
 | 📱 **Phone access + Android app** | Talk to your PC's AI from your phone, camera and all |
-| 🎨 **Make it yours** | Seven themes, custom colours, and a top hat whose mustache talks |
+| 🎨 **Make it yours** | Eleven styles, seven themes, custom colours, and a top hat whose mustache talks |
 | ⚡ **Built for real hardware** | Tuned for a 12 GB RTX 3060, splits big models across two GPUs, updates itself |
 
 <table>
   <tr>
     <td width="50%"><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/chat.jpg" alt="Prestige chat"><br><p align="center"><b>Chat</b></p></td>
     <td width="50%"><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/studio.jpg" alt="Prestige Studio gallery"><br><p align="center"><b>Studio</b></p></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/storyboard.jpg" alt="Storyboard: a song and every shot planned"></td>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/deep-research.jpg" alt="Deep Research: a cited report from the web"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/click-to-select.jpg" alt="Click to select: one click outlines it"></td>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/styles.jpg" alt="Eleven styles"></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/dragon.jpg" alt="A red and gold dragon rendered in Prestige"><br><p align="center"><b>Made in Prestige</b></p></td>
