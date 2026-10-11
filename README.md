@@ -30,6 +30,7 @@ running entirely on your own PC. I believe powerful AI should be **free, private
 | 🎮 **Canvas** | Ask for a game, a chart or a 3D scene and play it right beside the chat |
 | 📱 **Phone access + Android app** | Talk to your PC's AI from your phone, camera and all |
 | 🎨 **Make it yours** | Eleven styles, seven themes, custom colours, and a top hat whose mustache talks |
+| 📦 **Set up in one go** | Setup installs the AI engines and models for you; Packs adds or removes models any time |
 | ⚡ **Built for real hardware** | Tuned for a 12 GB RTX 3060, splits big models across two GPUs, updates itself |
 
 <table>
@@ -46,6 +47,10 @@ running entirely on your own PC. I believe powerful AI should be **free, private
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/styles.jpg" alt="Eleven styles"></td>
   </tr>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/setup.jpg" alt="Sets itself up: one installer"></td>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/memory.jpg" alt="Remembers you: memory kept on your PC"></td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/dragon.jpg" alt="A red and gold dragon rendered in Prestige"><br><p align="center"><b>Made in Prestige</b></p></td>
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/animate-dragon.gif" alt="The dragon render animated with Wan 2.2"><br><p align="center"><b>...and brought to life</b></p></td>
   </tr>
@@ -53,9 +58,9 @@ running entirely on your own PC. I believe powerful AI should be **free, private
 
 ## 🛠️ Under the hood
 
-Prestige runs on **[Custom AI Workstation](https://github.com/Mr5elfDe5truct/custom-ai-workstation)**, my one-click installer
-for the local AI engine it drives: Ollama, llama.cpp, ComfyUI, Whisper, Kokoro, VoxCPM2 and a tool server. Prestige itself is
-built with Tauri 2, Rust and TypeScript.
+Prestige is one installer: its **Setup** installs the local AI engine it drives (Ollama, llama.cpp, ComfyUI, Whisper, Kokoro,
+VoxCPM2 and a tool server) with the model packs you pick, and Prestige starts, stops and updates it all itself. The engine
+used to be its own project, Custom AI Workstation; it now lives inside Prestige. Built with Tauri 2, Rust and TypeScript.
 
 <p>
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-2-24C8DB?style=flat-square&logo=tauri&logoColor=white">
