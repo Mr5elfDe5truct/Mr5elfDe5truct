@@ -47,6 +47,10 @@ running entirely on your own PC. I believe powerful AI should be **free, private
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/styles.jpg" alt="Eleven styles"></td>
   </tr>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/setup.jpg" alt="Sets itself up: one installer"></td>
+    <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/highlights/memory.jpg" alt="Remembers you: memory kept on your PC"></td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/dragon.jpg" alt="A red and gold dragon rendered in Prestige"><br><p align="center"><b>Made in Prestige</b></p></td>
     <td><img src="https://raw.githubusercontent.com/Mr5elfDe5truct/prestige/main/docs/animate-dragon.gif" alt="The dragon render animated with Wan 2.2"><br><p align="center"><b>...and brought to life</b></p></td>
   </tr>
