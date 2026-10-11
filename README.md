@@ -30,6 +30,7 @@ running entirely on your own PC. I believe powerful AI should be **free, private
 | 🎮 **Canvas** | Ask for a game, a chart or a 3D scene and play it right beside the chat |
 | 📱 **Phone access + Android app** | Talk to your PC's AI from your phone, camera and all |
 | 🎨 **Make it yours** | Eleven styles, seven themes, custom colours, and a top hat whose mustache talks |
+| 📦 **Set up in one go** | Setup installs the AI engines and models for you; Packs adds or removes models any time |
 | ⚡ **Built for real hardware** | Tuned for a 12 GB RTX 3060, splits big models across two GPUs, updates itself |
 
 <table>
@@ -53,9 +54,9 @@ running entirely on your own PC. I believe powerful AI should be **free, private
 
 ## 🛠️ Under the hood
 
-Prestige runs on **[Custom AI Workstation](https://github.com/Mr5elfDe5truct/custom-ai-workstation)**, my one-click installer
-for the local AI engine it drives: Ollama, llama.cpp, ComfyUI, Whisper, Kokoro, VoxCPM2 and a tool server. Prestige itself is
-built with Tauri 2, Rust and TypeScript.
+Prestige is one installer: its **Setup** installs the local AI engine it drives (Ollama, llama.cpp, ComfyUI, Whisper, Kokoro,
+VoxCPM2 and a tool server) with the model packs you pick, and Prestige starts, stops and updates it all itself. The engine
+used to be its own project, Custom AI Workstation; it now lives inside Prestige. Built with Tauri 2, Rust and TypeScript.
 
 <p>
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-2-24C8DB?style=flat-square&logo=tauri&logoColor=white">
